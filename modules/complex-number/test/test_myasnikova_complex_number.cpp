@@ -66,7 +66,7 @@ TEST(Myasnikova_Varvara_ComplexNumberTest,
 }
 
 TEST(Myasnikova_Varvara_ComplexNumberTest,
- Perform_Multiplication_by_Zerro) {
+  Perform_Multiplication_by_Zerro) {
   double a_real = 25.0;
   double a_imag = 0.0;
   double b_real = 0.0;
