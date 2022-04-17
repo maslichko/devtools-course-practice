@@ -47,6 +47,10 @@ Pseudographics::Pseudographics() {
 }
 
 void Pseudographics::PrintPseudographics(int num) {
+  if (num < 0) {
+    throw - 1;
+  }
+
   std::string num_in_string = std::to_string(num);
   int len = num_in_string.length();
   for (int i = 0; i < 3; i++) {

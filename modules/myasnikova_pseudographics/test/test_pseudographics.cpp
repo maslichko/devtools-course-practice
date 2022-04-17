@@ -52,3 +52,18 @@ TEST(Pseudographics, CanPrint_0) {
   Pseudographics p;
   ASSERT_NO_THROW(p.PrintPseudographics(0));
 }
+
+TEST(Pseudographics, CanPrintALotOfNumbers_1) {
+  Pseudographics p;
+  ASSERT_NO_THROW(p.PrintPseudographics(12));
+}
+
+TEST(Pseudographics, CanPrintALotOfNumbers_2) {
+  Pseudographics p;
+  ASSERT_NO_THROW(p.PrintPseudographics(123456789));
+}
+
+TEST(Pseudographics, CannotPrintANegativeNumber) {
+  Pseudographics p;
+  ASSERT_ANY_THROW(p.PrintPseudographics(-10));
+}
