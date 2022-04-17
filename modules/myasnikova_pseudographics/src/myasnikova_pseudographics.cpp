@@ -47,11 +47,11 @@ Pseudographics::Pseudographics() {
 }
 
 void Pseudographics::PrintPseudographics(int num) {
-  std::string temp = std::to_string(num);
-
+  std::string num_in_string = std::to_string(num);
+  int len = num_in_string.length();
   for (int i = 0; i < 3; i++) {
-    for (int j = 0; j < temp.length(); j++) {
-      switch (temp[j] - '0') {
+    for (int j = 0; j < len; j++) {
+      switch (num_in_string[j] - '0') {
       case 0:
         std::cout << cout_0[i] << " ";
         break;
