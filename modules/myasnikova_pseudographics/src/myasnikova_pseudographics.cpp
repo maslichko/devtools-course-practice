@@ -3,8 +3,7 @@
 #include "include/myasnikova_pseudographics.h"
 #include <iostream>
 
-Pseudographics::Pseudographics()
-{
+Pseudographics::Pseudographics() {
   cout_0[0] = "._.";
   cout_0[1] = "|.|";
   cout_0[2] = "|_|";
@@ -16,7 +15,6 @@ Pseudographics::Pseudographics()
   cout_2[0] = "._.";
   cout_2[1] = "._|";
   cout_2[2] = "|_.";
-
 
   cout_3[0] = "._.";
   cout_3[1] = "._|";
@@ -47,16 +45,12 @@ Pseudographics::Pseudographics()
   cout_9[2] = "..|";
 }
 
-void Pseudographics::PrintPseudographics(int num)
-{
+void Pseudographics::PrintPseudographics(int num) {
   std::string temp = std::to_string(num);
 
-  for (int i = 0; i < 3; i++)
-  {
-    for (int j = 0; j < temp.length(); j++)
-    {
-      switch (temp[j] - '0')
-      {
+  for (int i = 0; i < 3; i++) {
+    for (int j = 0; j < temp.length(); j++) {
+      switch (temp[j] - '0') {
       case 0:
         std::cout << cout_0[i] << " ";
         break;

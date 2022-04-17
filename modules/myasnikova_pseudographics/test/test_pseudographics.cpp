@@ -1,8 +1,6 @@
 // Copyright 2022 Myasnikova Varvara
 
 #include <gtest/gtest.h>
-
-#include <tuple>
 #include "include/myasnikova_pseudographics.h"
 
 TEST(Pseudographics, CanPrint_1) {
@@ -54,5 +52,3 @@ TEST(Pseudographics, CanPrint_0) {
   Pseudographics p;
   ASSERT_NO_THROW(p.PrintPseudographics(0));
 }
-
-//Тесты
