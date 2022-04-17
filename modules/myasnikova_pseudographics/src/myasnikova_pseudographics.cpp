@@ -2,6 +2,7 @@
 
 #include "include/myasnikova_pseudographics.h"
 #include <iostream>
+#include <string>
 
 Pseudographics::Pseudographics() {
   cout_0[0] = "._.";
