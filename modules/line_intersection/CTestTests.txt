@@ -58,11 +58,11 @@ set_tests_properties (${prefix}_can_detection_intersection_2 PROPERTIES
     LABELS "${MODULE}")
 
 add_test(
-    NAME ${prefix}_can_detection_intersection_3
+    NAME ${prefix}_can_detection_intersection
     COMMAND ${APPLICATION} 1.8 14.3 12.7 1.6 28.19 25.1 0.23 3.91
 )
 
-set_tests_properties (${prefix}_can_detection_intersection_3 PROPERTIES
+set_tests_properties (${prefix}_can_detection_intersection PROPERTIES
     PASS_REGULAR_EXPRESSION "Straight lines intersect"
     LABELS "${MODULE}")
 
