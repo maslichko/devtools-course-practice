@@ -1,0 +1,10 @@
+# Target labels
+ kazhaeva_complex
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/kazhaeva_complex/test/test_kazhaeva_complex.cpp
+ kazhaeva_complex
+ Test
+D:/unn/devtools-course-practice/modules/kazhaeva_complex/test/test_main.cpp
+ kazhaeva_complex
+ Test

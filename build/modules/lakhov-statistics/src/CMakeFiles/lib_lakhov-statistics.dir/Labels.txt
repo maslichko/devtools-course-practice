@@ -1,0 +1,10 @@
+# Target labels
+ lakhov-statistics
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/lakhov-statistics/src/stohastic_variable.cpp
+ lakhov-statistics
+ Library
+D:/unn/devtools-course-practice/modules/lakhov-statistics/include/stohastic_variable.h
+ lakhov-statistics
+ Library

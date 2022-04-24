@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/radix_sort_dydykin/src/radix_sort.cpp",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/radix_sort_dydykin/include/radix_sort.h",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"radix_sort_dydykin",
+			"Library"
+		],
+		"name" : "lib_radix_sort_dydykin"
+	}
+}

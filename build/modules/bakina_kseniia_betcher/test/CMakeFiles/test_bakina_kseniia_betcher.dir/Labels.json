@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/test/test.cpp",
+			"labels" : 
+			[
+				"bakina_kseniia_betcher",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/test/test_main.cpp",
+			"labels" : 
+			[
+				"bakina_kseniia_betcher",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bakina_kseniia_betcher",
+			"Test"
+		],
+		"name" : "test_bakina_kseniia_betcher"
+	}
+}

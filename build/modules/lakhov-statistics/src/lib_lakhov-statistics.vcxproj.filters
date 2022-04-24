@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\unn\devtools-course-practice\modules\lakhov-statistics\src\stohastic_variable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\unn\devtools-course-practice\modules\lakhov-statistics\include\stohastic_variable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\unn\devtools-course-practice\modules\lakhov-statistics\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4A1615ED-7412-3F82-879B-43B36F98AA02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{762AE350-9E0A-324C-B690-E310312F8243}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

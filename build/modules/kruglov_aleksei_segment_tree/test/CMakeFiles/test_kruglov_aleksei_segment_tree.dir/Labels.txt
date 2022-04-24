@@ -1,0 +1,10 @@
+# Target labels
+ kruglov_aleksei_segment_tree
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/kruglov_aleksei_segment_tree/test/test_kruglov_aleksei_complex_number.cpp
+ kruglov_aleksei_segment_tree
+ Test
+D:/unn/devtools-course-practice/modules/kruglov_aleksei_segment_tree/test/test_main.cpp
+ kruglov_aleksei_segment_tree
+ Test

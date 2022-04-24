@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/src/prime_numbers.cpp",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/src/prime_numbers_application.cpp",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/include/prime_numbers.h",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/include/prime_numbers_application.h",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"novozhilov-alexandr-prime-numbers",
+			"Library"
+		],
+		"name" : "lib_novozhilov-alexandr-prime-numbers"
+	}
+}

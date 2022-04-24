@@ -1,0 +1,10 @@
+# Target labels
+ novozhilov-alexandr-prime-numbers
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/test/test.cpp
+ novozhilov-alexandr-prime-numbers
+ Test
+D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/test/test_main.cpp
+ novozhilov-alexandr-prime-numbers
+ Test

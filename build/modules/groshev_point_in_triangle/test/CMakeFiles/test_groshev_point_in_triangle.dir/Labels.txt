@@ -1,0 +1,10 @@
+# Target labels
+ groshev_point_in_triangle
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/groshev_point_in_triangle/test/test_main.cpp
+ groshev_point_in_triangle
+ Test
+D:/unn/devtools-course-practice/modules/groshev_point_in_triangle/test/test_point_in_triangle.cpp
+ groshev_point_in_triangle
+ Test

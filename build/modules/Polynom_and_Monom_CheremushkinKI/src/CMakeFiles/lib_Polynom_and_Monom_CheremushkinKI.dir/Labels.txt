@@ -1,0 +1,16 @@
+# Target labels
+ Polynom_and_Monom_CheremushkinKI
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/Polynom_and_Monom_CheremushkinKI/src/Monom.cpp
+ Polynom_and_Monom_CheremushkinKI
+ Library
+D:/unn/devtools-course-practice/modules/Polynom_and_Monom_CheremushkinKI/src/Polynom.cpp
+ Polynom_and_Monom_CheremushkinKI
+ Library
+D:/unn/devtools-course-practice/modules/Polynom_and_Monom_CheremushkinKI/include/Monom.h
+ Polynom_and_Monom_CheremushkinKI
+ Library
+D:/unn/devtools-course-practice/modules/Polynom_and_Monom_CheremushkinKI/include/Polynom.h
+ Polynom_and_Monom_CheremushkinKI
+ Library

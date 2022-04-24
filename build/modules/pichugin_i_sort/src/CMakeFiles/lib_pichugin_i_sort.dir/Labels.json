@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/pichugin_i_sort/src/sort_selection.cpp",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/pichugin_i_sort/include/sort_selection.h",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pichugin_i_sort",
+			"Library"
+		],
+		"name" : "lib_pichugin_i_sort"
+	}
+}

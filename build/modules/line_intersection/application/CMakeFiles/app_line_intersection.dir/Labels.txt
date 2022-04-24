@@ -1,0 +1,7 @@
+# Target labels
+ line_intersection
+ Application
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/line_intersection/application/application.cpp
+ line_intersection
+ Application

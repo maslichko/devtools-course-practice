@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/chornyi-yura-vigenere/test/test_main.cpp",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/chornyi-yura-vigenere/test/test_vigenere_cipher.cpp",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"chornyi-yura-vigenere",
+			"Test"
+		],
+		"name" : "test_chornyi-yura-vigenere"
+	}
+}

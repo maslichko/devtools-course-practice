@@ -1,0 +1,16 @@
+# Target labels
+ vanyushkov_m_ratio
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/src/ratio.cpp
+ vanyushkov_m_ratio
+ Library
+D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/src/ratio_app.cpp
+ vanyushkov_m_ratio
+ Library
+D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/include/ratio.h
+ vanyushkov_m_ratio
+ Library
+D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/include/ratio_app.h
+ vanyushkov_m_ratio
+ Library

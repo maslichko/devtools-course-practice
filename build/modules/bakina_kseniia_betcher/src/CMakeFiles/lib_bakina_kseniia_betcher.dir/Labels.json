@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/src/bakina_kseniia_betcher.cpp",
+			"labels" : 
+			[
+				"bakina_kseniia_betcher",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/include/backina_kseniia_betcher.h",
+			"labels" : 
+			[
+				"bakina_kseniia_betcher",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bakina_kseniia_betcher",
+			"Library"
+		],
+		"name" : "lib_bakina_kseniia_betcher"
+	}
+}

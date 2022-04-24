@@ -1,0 +1,10 @@
+# Target labels
+ pichugin_i_sort
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/pichugin_i_sort/src/sort_selection.cpp
+ pichugin_i_sort
+ Library
+D:/unn/devtools-course-practice/modules/pichugin_i_sort/include/sort_selection.h
+ pichugin_i_sort
+ Library

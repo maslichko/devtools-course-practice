@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/yashin_kirill_binary_search/src/binary_search.cpp",
+			"labels" : 
+			[
+				"yashin_kirill_binary_search",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/yashin_kirill_binary_search/src/binary_search_application.cpp",
+			"labels" : 
+			[
+				"yashin_kirill_binary_search",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/yashin_kirill_binary_search/include/binary_search.h",
+			"labels" : 
+			[
+				"yashin_kirill_binary_search",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/yashin_kirill_binary_search/include/binary_search_application.h",
+			"labels" : 
+			[
+				"yashin_kirill_binary_search",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"yashin_kirill_binary_search",
+			"Library"
+		],
+		"name" : "lib_yashin_kirill_binary_search"
+	}
+}

@@ -1,0 +1,10 @@
+# Target labels
+ deicstra_algorithm
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/deicstra_algorithm/test/test_ershov_alexey_deicstra_algorithm.cpp
+ deicstra_algorithm
+ Test
+D:/unn/devtools-course-practice/modules/deicstra_algorithm/test/test_main.cpp
+ deicstra_algorithm
+ Test

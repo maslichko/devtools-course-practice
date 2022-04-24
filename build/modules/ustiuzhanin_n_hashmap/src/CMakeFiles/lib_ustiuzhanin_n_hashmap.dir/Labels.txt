@@ -1,0 +1,16 @@
+# Target labels
+ ustiuzhanin_n_hashmap
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/ustiuzhanin_n_hashmap/src/hashmap.cpp
+ ustiuzhanin_n_hashmap
+ Library
+D:/unn/devtools-course-practice/modules/ustiuzhanin_n_hashmap/src/hashmap_app.cpp
+ ustiuzhanin_n_hashmap
+ Library
+D:/unn/devtools-course-practice/modules/ustiuzhanin_n_hashmap/include/hashmap.h
+ ustiuzhanin_n_hashmap
+ Library
+D:/unn/devtools-course-practice/modules/ustiuzhanin_n_hashmap/include/hashmap_app.h
+ ustiuzhanin_n_hashmap
+ Library

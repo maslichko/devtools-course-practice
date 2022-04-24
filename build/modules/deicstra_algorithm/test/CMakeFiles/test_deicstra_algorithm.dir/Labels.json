@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/deicstra_algorithm/test/test_ershov_alexey_deicstra_algorithm.cpp",
+			"labels" : 
+			[
+				"deicstra_algorithm",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/deicstra_algorithm/test/test_main.cpp",
+			"labels" : 
+			[
+				"deicstra_algorithm",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"deicstra_algorithm",
+			"Test"
+		],
+		"name" : "test_deicstra_algorithm"
+	}
+}

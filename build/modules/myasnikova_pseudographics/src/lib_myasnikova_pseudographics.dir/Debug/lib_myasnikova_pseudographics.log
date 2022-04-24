@@ -1,0 +1,3 @@
+﻿  myasnikova_pseudographics.cpp
+D:\unn\devtools-course-practice\modules\myasnikova_pseudographics\src\myasnikova_pseudographics.cpp(55,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lib_myasnikova_pseudographics.vcxproj -> D:\unn\devtools-course-practice\build\lib\myasnikova_pseudographics.lib

@@ -1,0 +1,10 @@
+# Target labels
+ chornyi-yura-vigenere
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/chornyi-yura-vigenere/test/test_main.cpp
+ chornyi-yura-vigenere
+ Test
+D:/unn/devtools-course-practice/modules/chornyi-yura-vigenere/test/test_vigenere_cipher.cpp
+ chornyi-yura-vigenere
+ Test

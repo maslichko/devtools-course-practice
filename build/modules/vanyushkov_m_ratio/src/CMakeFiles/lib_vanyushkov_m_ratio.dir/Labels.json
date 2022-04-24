@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/src/ratio.cpp",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/src/ratio_app.cpp",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/include/ratio.h",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/include/ratio_app.h",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vanyushkov_m_ratio",
+			"Library"
+		],
+		"name" : "lib_vanyushkov_m_ratio"
+	}
+}

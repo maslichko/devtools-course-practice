@@ -1,0 +1,10 @@
+# Target labels
+ bakina_kseniia_betcher
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/src/bakina_kseniia_betcher.cpp
+ bakina_kseniia_betcher
+ Library
+D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/include/backina_kseniia_betcher.h
+ bakina_kseniia_betcher
+ Library

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/alimov_mike_ceacer_cifir/src/alimov_mike_ceacer_cifir.cpp",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/alimov_mike_ceacer_cifir/include/alimov_mike_ceacer_cifir.h",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"alimov_mike_ceacer_cifir",
+			"Library"
+		],
+		"name" : "lib_alimov_mike_ceacer_cifir"
+	}
+}

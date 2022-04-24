@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/deicstra_algorithm/src/ershov_alexey_deicstra_algorithm.cpp",
+			"labels" : 
+			[
+				"deicstra_algorithm",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/deicstra_algorithm/include/ershov_alexey_deicstra_algorithm.h",
+			"labels" : 
+			[
+				"deicstra_algorithm",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"deicstra_algorithm",
+			"Library"
+		],
+		"name" : "lib_deicstra_algorithm"
+	}
+}

@@ -1,0 +1,10 @@
+# Target labels
+ bakina_kseniia_betcher
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/test/test.cpp
+ bakina_kseniia_betcher
+ Test
+D:/unn/devtools-course-practice/modules/bakina_kseniia_betcher/test/test_main.cpp
+ bakina_kseniia_betcher
+ Test

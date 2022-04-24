@@ -1,0 +1,10 @@
+# Target labels
+ Polynom_and_Monom_CheremushkinKI
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/Polynom_and_Monom_CheremushkinKI/test/test_CHEREMUSHKIN_KIRILL_polynom_monom.cpp
+ Polynom_and_Monom_CheremushkinKI
+ Test
+D:/unn/devtools-course-practice/modules/Polynom_and_Monom_CheremushkinKI/test/test_main.cpp
+ Polynom_and_Monom_CheremushkinKI
+ Test

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/groshev_point_in_triangle/test/test_main.cpp",
+			"labels" : 
+			[
+				"groshev_point_in_triangle",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/groshev_point_in_triangle/test/test_point_in_triangle.cpp",
+			"labels" : 
+			[
+				"groshev_point_in_triangle",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"groshev_point_in_triangle",
+			"Test"
+		],
+		"name" : "test_groshev_point_in_triangle"
+	}
+}

@@ -1,0 +1,10 @@
+# Target labels
+ myasnikova_pseudographics
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/myasnikova_pseudographics/test/test_main.cpp
+ myasnikova_pseudographics
+ Test
+D:/unn/devtools-course-practice/modules/myasnikova_pseudographics/test/test_pseudographics.cpp
+ myasnikova_pseudographics
+ Test

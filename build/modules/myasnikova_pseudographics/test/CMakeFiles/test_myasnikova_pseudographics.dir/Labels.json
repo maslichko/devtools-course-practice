@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/myasnikova_pseudographics/test/test_main.cpp",
+			"labels" : 
+			[
+				"myasnikova_pseudographics",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/myasnikova_pseudographics/test/test_pseudographics.cpp",
+			"labels" : 
+			[
+				"myasnikova_pseudographics",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"myasnikova_pseudographics",
+			"Test"
+		],
+		"name" : "test_myasnikova_pseudographics"
+	}
+}

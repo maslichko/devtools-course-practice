@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/zarubin_mikhail_binary_tree/application/binary_tree.cpp",
+			"labels" : 
+			[
+				"zarubin_mikhail_binary_tree",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zarubin_mikhail_binary_tree",
+			"Application"
+		],
+		"name" : "app_zarubin_mikhail_binary_tree"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/line_intersection/src/line_intersection.cpp",
+			"labels" : 
+			[
+				"line_intersection",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/line_intersection/src/line_intersection_app.cpp",
+			"labels" : 
+			[
+				"line_intersection",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/line_intersection/include/line_intersection.h",
+			"labels" : 
+			[
+				"line_intersection",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/line_intersection/include/line_intersection_app.h",
+			"labels" : 
+			[
+				"line_intersection",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"line_intersection",
+			"Library"
+		],
+		"name" : "lib_line_intersection"
+	}
+}

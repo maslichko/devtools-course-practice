@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/conways_life/src/conways_life.cpp",
+			"labels" : 
+			[
+				"conways_life",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/conways_life/include/conways_life.h",
+			"labels" : 
+			[
+				"conways_life",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"conways_life",
+			"Library"
+		],
+		"name" : "lib_conways_life"
+	}
+}

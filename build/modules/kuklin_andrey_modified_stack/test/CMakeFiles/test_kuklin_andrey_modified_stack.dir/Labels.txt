@@ -1,0 +1,10 @@
+# Target labels
+ kuklin_andrey_modified_stack
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/kuklin_andrey_modified_stack/test/test_main.cpp
+ kuklin_andrey_modified_stack
+ Test
+D:/unn/devtools-course-practice/modules/kuklin_andrey_modified_stack/test/test_modified_stack.cpp
+ kuklin_andrey_modified_stack
+ Test

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/kazhaeva_complex/src/kazhaeva_complex.cpp",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/kazhaeva_complex/include/kazhaeva_complex.h",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kazhaeva_complex",
+			"Library"
+		],
+		"name" : "lib_kazhaeva_complex"
+	}
+}

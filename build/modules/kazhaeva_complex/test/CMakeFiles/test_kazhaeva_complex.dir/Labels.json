@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/kazhaeva_complex/test/test_kazhaeva_complex.cpp",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/kazhaeva_complex/test/test_main.cpp",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kazhaeva_complex",
+			"Test"
+		],
+		"name" : "test_kazhaeva_complex"
+	}
+}

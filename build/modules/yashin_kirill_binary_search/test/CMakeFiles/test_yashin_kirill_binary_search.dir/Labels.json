@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/yashin_kirill_binary_search/test/test_binary_search.cpp",
+			"labels" : 
+			[
+				"yashin_kirill_binary_search",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/yashin_kirill_binary_search/test/test_main.cpp",
+			"labels" : 
+			[
+				"yashin_kirill_binary_search",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"yashin_kirill_binary_search",
+			"Test"
+		],
+		"name" : "test_yashin_kirill_binary_search"
+	}
+}

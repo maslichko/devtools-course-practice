@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/graph_diameter/test/graph_diameter_test.cpp",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/graph_diameter/test/test_main.cpp",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"graph_diameter",
+			"Test"
+		],
+		"name" : "test_graph_diameter"
+	}
+}

@@ -1,0 +1,10 @@
+# Target labels
+ samoiluk_a_stack
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/samoiluk_a_stack/src/samoiluk_a_stack.cpp
+ samoiluk_a_stack
+ Library
+D:/unn/devtools-course-practice/modules/samoiluk_a_stack/include/samoiluk_a_stack.h
+ samoiluk_a_stack
+ Library

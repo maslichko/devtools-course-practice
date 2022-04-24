@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/kuklin_andrey_modified_stack/test/test_main.cpp",
+			"labels" : 
+			[
+				"kuklin_andrey_modified_stack",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/kuklin_andrey_modified_stack/test/test_modified_stack.cpp",
+			"labels" : 
+			[
+				"kuklin_andrey_modified_stack",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kuklin_andrey_modified_stack",
+			"Test"
+		],
+		"name" : "test_kuklin_andrey_modified_stack"
+	}
+}

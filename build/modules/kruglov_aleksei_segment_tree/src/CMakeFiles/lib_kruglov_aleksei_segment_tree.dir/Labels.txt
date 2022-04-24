@@ -1,0 +1,10 @@
+# Target labels
+ kruglov_aleksei_segment_tree
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/kruglov_aleksei_segment_tree/src/segment_tree.cpp
+ kruglov_aleksei_segment_tree
+ Library
+D:/unn/devtools-course-practice/modules/kruglov_aleksei_segment_tree/include/segment_tree.h
+ kruglov_aleksei_segment_tree
+ Library

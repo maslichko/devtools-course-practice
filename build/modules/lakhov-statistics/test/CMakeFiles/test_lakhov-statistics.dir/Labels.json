@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/lakhov-statistics/test/test_main.cpp",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/lakhov-statistics/test/test_stohastic_variable.cpp",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lakhov-statistics",
+			"Test"
+		],
+		"name" : "test_lakhov-statistics"
+	}
+}

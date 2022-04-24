@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/chornyi-yura-vigenere/src/vigenere_cipher.cpp",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Library"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/chornyi-yura-vigenere/include/vigenere_cipher.h",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"chornyi-yura-vigenere",
+			"Library"
+		],
+		"name" : "lib_chornyi-yura-vigenere"
+	}
+}

@@ -1,0 +1,10 @@
+# Target labels
+ conways_life
+ Library
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/conways_life/src/conways_life.cpp
+ conways_life
+ Library
+D:/unn/devtools-course-practice/modules/conways_life/include/conways_life.h
+ conways_life
+ Library

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/line_intersection/test/test_line_intersection.cpp",
+			"labels" : 
+			[
+				"line_intersection",
+				"Test"
+			]
+		},
+		{
+			"file" : "D:/unn/devtools-course-practice/modules/line_intersection/test/test_main.cpp",
+			"labels" : 
+			[
+				"line_intersection",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"line_intersection",
+			"Test"
+		],
+		"name" : "test_line_intersection"
+	}
+}

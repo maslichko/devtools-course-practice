@@ -1,0 +1,10 @@
+# Target labels
+ pichugin_i_sort
+ Test
+# Source files and their labels
+D:/unn/devtools-course-practice/modules/pichugin_i_sort/test/test.cpp
+ pichugin_i_sort
+ Test
+D:/unn/devtools-course-practice/modules/pichugin_i_sort/test/test_main.cpp
+ pichugin_i_sort
+ Test
