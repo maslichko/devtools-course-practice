@@ -18,7 +18,7 @@ add_test(
 )
 
 set_tests_properties (${prefix}_can_Print_Help_Without_Arguments PROPERTIES
-    PASS_REGULAR_EXPRESSION "This is a pseudographics test application."
+    PASS_REGULAR_EXPRESSION "This is a LineIntersection test application."
     LABELS "${MODULE}")
 
 add_test(
