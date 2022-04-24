@@ -58,6 +58,15 @@ set_tests_properties (${prefix}_can_detection_intersection_2 PROPERTIES
     LABELS "${MODULE}")
 
 add_test(
+    NAME ${prefix}_can_detection_intersection_3
+    COMMAND ${APPLICATION} 17.8 14.3 2.7 4.6 28.19 45.1 20.23 23.91
+)
+
+set_tests_properties (${prefix}_can_detection_intersection_3 PROPERTIES
+    PASS_REGULAR_EXPRESSION "Straight lines intersect"
+    LABELS "${MODULE}")
+
+add_test(
     NAME ${prefix}_can_detect_the_absence_of_an_intersection_1
     COMMAND ${APPLICATION} 0 10 10 0 11 11 15 0
 )
@@ -72,5 +81,14 @@ add_test(
 )
 
 set_tests_properties (${prefix}_can_detect_the_absence_of_an_intersection_2 PROPERTIES
+    PASS_REGULAR_EXPRESSION "The lines don't intersect"
+    LABELS "${MODULE}")
+
+add_test(
+    NAME ${prefix}_can_detect_the_absence_of_an_intersection_3
+    COMMAND ${APPLICATION} 18.19 0.0 2.2 20.20 10.8 12.0 10.7 40.12
+)
+
+set_tests_properties (${prefix}_can_detect_the_absence_of_an_intersection_3 PROPERTIES
     PASS_REGULAR_EXPRESSION "The lines don't intersect"
     LABELS "${MODULE}")
