@@ -59,7 +59,7 @@ set_tests_properties (${prefix}_can_detection_intersection_2 PROPERTIES
 
 add_test(
     NAME ${prefix}_can_detection_intersection_3
-    COMMAND ${APPLICATION} 17.8 14.3 2.7 4.6 28.19 45.1 20.23 23.91
+    COMMAND ${APPLICATION} 1.8 14.3 12.7 1.6 28.19 25.1 0.23 3.91
 )
 
 set_tests_properties (${prefix}_can_detection_intersection_3 PROPERTIES
