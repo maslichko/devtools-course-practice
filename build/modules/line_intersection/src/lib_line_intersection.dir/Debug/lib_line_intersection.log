@@ -1,3 +1,0 @@
-﻿  line_intersection_app.cpp
-D:\unn\devtools-course-practice\modules\line_intersection\src\line_intersection_app.cpp(33,34): warning C4101: e: неиспользованная локальная переменная
-  lib_line_intersection.vcxproj -> D:\unn\devtools-course-practice\build\lib\line_intersection.lib

@@ -1,7 +1,0 @@
-# Target labels
- ustiuzhanin_n_hashmap
- Application
-# Source files and their labels
-D:/unn/devtools-course-practice/modules/ustiuzhanin_n_hashmap/application/application.cpp
- ustiuzhanin_n_hashmap
- Application

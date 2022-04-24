@@ -1,7 +1,0 @@
-# Target labels
- vanyushkov_m_ratio
- Application
-# Source files and their labels
-D:/unn/devtools-course-practice/modules/vanyushkov_m_ratio/application/application.cpp
- vanyushkov_m_ratio
- Application

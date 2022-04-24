@@ -1,7 +1,0 @@
-# Target labels
- novozhilov-alexandr-prime-numbers
- Application
-# Source files and their labels
-D:/unn/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/application/application.cpp
- novozhilov-alexandr-prime-numbers
- Application
